@@ -1,0 +1,11 @@
+5
+abcdefg
+gdbcafe
+same
+same
+string containing space
+space containing string
+bad word
+word bat
+sentence
+sentences
